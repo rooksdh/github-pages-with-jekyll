@@ -1,1 +1,2 @@
-This is first blog post
+title: "First Blog"
+date: 1999-01-28
